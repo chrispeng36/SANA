@@ -1,3 +1,4 @@
+# codes for the paper 《Robust Network Alignment with the Combination of Structure and Attribute Embeddings》.
 # dependencies
 
 pytorch 1.10.2，networkx 2.3，python 3，cuda 10.2，dgl 1.1.0+cu102
